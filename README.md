@@ -1,5 +1,7 @@
 # rnnoise-cmake
+
 use rnnoise as a static lib in cmake
+
 put downloaded rnnoise as a sub dir in your cmake project, then add below to your cmakelists.txt
 
 ```cmake
